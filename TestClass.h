@@ -6,7 +6,7 @@
 #include"class.h"
 
 using namespace std;
-
+//bankdummy class 
 
 class BankDummy : public bank
 {
