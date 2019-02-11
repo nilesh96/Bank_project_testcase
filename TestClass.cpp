@@ -6,7 +6,7 @@ using namespace std;
 int TestBankDummy::mArgc = 0;
 char** TestBankDummy::mArgs = NULL;
 BankDummy* TestBankDummy::pM = NULL;
-
+//dummy class destructor
 TestBankDummy::TestBankDummy(void)
 {
 
