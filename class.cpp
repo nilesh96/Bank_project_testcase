@@ -9,6 +9,7 @@ bank::bank (string dup_name, int dup_ac,int dup_balance)
 		ac= dup_ac;
 		balance=dup_balance;  
 	}
+//writing the destructor in the class.cpp
 bank::~bank()
 	{
 		cout << "destrucotr  successfully deallocate memory" << endl;
